@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Water leakage in hostel block A bathroom",
+    "description": "Water is constantly leaking from the pipe in the second floor bathroom of hostel block A. The floor is flooded.",
+    "category": "Hostel Maintenance",
+    "location": "Hostel Block A, 2nd Floor",
+    "severity": 4,
+    "affected_users": 20
+  },
+  {
+    "id": 2,
+    "title": "Bathroom in hostel block A is leaking water",
+    "description": "The bathroom pipe in hostel block A on second floor is leaking clean water since yesterday morning.",
+    "category": "Hostel Maintenance",
+    "location": "Hostel Block A, 2nd Floor",
+    "severity": 4,
+    "affected_users": 20
+  },
+  {
+    "id": 3,
+    "title": "Wi-Fi not working in library reading hall",
+    "description": "Students cannot connect to the campus Wi-Fi network inside the main library reading hall. Signal drops repeatedly.",
+    "category": "Network & Wi-Fi",
+    "location": "Central Library, Reading Hall",
+    "severity": 3,
+    "affected_users": 45
+  },
+  {
+    "id": 4,
+    "title": "Frequent disconnection on library Wi-Fi",
+    "description": "The library reading room Wi-Fi is continuously disconnecting and giving authentication error for all laptops.",
+    "category": "Network & Wi-Fi",
+    "location": "Central Library, Reading Hall",
+    "severity": 3,
+    "affected_users": 40
+  },
+  {
+    "id": 5,
+    "title": "Projector not displaying in Room 204",
+    "description": "The HDMI cable connection to the projector in lecture hall Room 204 is faulty. Display shows blue screen.",
+    "category": "Classroom Infrastructure",
+    "location": "Academic Block 1, Room 204",
+    "severity": 2,
+    "affected_users": 60
+  },
+  {
+    "id": 6,
+    "title": "Broken switchboard sparking in lab 3",
+    "description": "Electric switchboard near terminal 14 in computer lab 3 has loose wires and sparks when turned on.",
+    "category": "Electrical & Lighting",
+    "location": "BCA Building, Computer Lab 3",
+    "severity": 5,
+    "affected_users": 35
+  }
+]
